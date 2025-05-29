@@ -3,6 +3,12 @@
 🎓 Master's Student in Applied Data Science at San Jose State University  
 💼 2 years experience in Software Development & Analytics  
 📊 I'm passionate about leveraging data analytics, engineering, big data systems, and machine learning to build scalable solutions and drive informed decision-making.
+
+## 🚧 Currently Working On
+
+- Building AI agents that integrate large language models with real-world tools for automation and intelligent decision-making
+- Developing big data systems using technologies like Kafka, Spark, Airflow, and Snowflake to support scalable and real-time data processing
+- Exploring open-source ML and AI tools to create impactful, production-ready solutions
   
 
 ## 🔧 Tech Stack & Tools
@@ -53,9 +59,8 @@
 
 ##### 🛠️ Other Tools
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/-Google%20Workspace-4285F4?logo=google&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-FABB05?logo=googleanalytics&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
 
 
@@ -64,5 +69,5 @@
 ## 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mounashreeprasanna/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/mounashree-prasanna)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:mounashree.p10@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:mounashree.p10@gmail.com)
 
