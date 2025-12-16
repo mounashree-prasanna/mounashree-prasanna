@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mouna
 
 I'm a Master's student in Applied Data Science at San Jose State University with 2+ years of experience in software development and analytics.  
-I’m passionate about building scalable solutions through data engineering, machine learning, and cloud technologies.
+I enjoy building end-to-end systems whether that means developing microservices and full-stack applications or designing data pipelines, workflows, and ML models. My work combines software engineering, data engineering, and applied machine learning.
 
 ---
 
